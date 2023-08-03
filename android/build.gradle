@@ -23,7 +23,7 @@ android {
         applicationId "com.truepolitician.game"
         minSdkVersion 16
         targetSdkVersion 33
-        versionCode 5
+        versionCode 7
         versionName "1.0.4"
         multiDexEnabled true
         setProperty("archivesBaseName", "russianpolitician-$versionName-code$versionCode")
